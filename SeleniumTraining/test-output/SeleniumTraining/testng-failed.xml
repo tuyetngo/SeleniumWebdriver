@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SeleniumTraining]">
+  <test name="TestB(failed)">
+    <classes>
+      <class name="QuestionB.QuestionB">
+        <methods>
+          <include name="aftertest"/>
+          <include name="testscenario2"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- QuestionB.QuestionB -->
+      <class name="QuestionA.QuestionA">
+        <methods>
+          <include name="beforetest"/>
+          <include name="aftertest"/>
+        </methods>
+      </class> <!-- QuestionA.QuestionA -->
+    </classes>
+  </test> <!-- TestB(failed) -->
+</suite> <!-- Failed suite [SeleniumTraining] -->
