@@ -1,0 +1,13 @@
+!SESSION 2018-05-23 16:01:01.266 -----------------------------------------------
+eclipse.buildId=4.7.2.M20171130-0510
+java.version=1.8.0_162
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.committers.product -keyring /Users/tuyetngo/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.committers.product -keyring /Users/tuyetngo/.eclipse_keyring
+
+!ENTRY org.eclipse.core.net 1 0 2018-05-23 16:01:50.914
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.ui.workbench.texteditor 4 0 2018-05-23 16:01:51.967
+!MESSAGE The 'org.eclipse.ui.genericeditor.examples.hyperlinkDetector' extension from plug-in 'org.eclipse.ui.genericeditor.examples' to the 'org.eclipse.ui.workbench.texteditor.hyperlinkDetectors' extension point will be ignored because it contains invalid attributes.
